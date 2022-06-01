@@ -1,0 +1,2 @@
+# MediaPipeHandPos
+Just for practice
